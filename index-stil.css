@@ -379,8 +379,17 @@ footer{
     background-color: #00D172;
     margin-top: 10px;
 }
-.col h2:hover::after{
-    width: 250px;
+.col #kurumsal-animasyon:hover::after{
+    width: 225px;
+}
+.col #hesap-islemleri-animasyon:hover::after{
+    width: 190px;
+}
+.col #alisveris-animasyon:hover::after{
+    width: 225px;
+}
+.col #iletisim-bilgileri-animasyon:hover::after{
+    width: 220px;
 }
 #iletisim-bilgileri p{
     font-family: Poppins, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
